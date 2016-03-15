@@ -3,6 +3,8 @@
 ## Purpose
 
 This software visualizes time-series data from a serial port in realtime.
+![Example](https://raw.githubusercontent.com/hirohashi/SerialMonitor/master/example.png "Example")
+
 
 ## Requirements
 
